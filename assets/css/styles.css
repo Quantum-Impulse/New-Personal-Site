@@ -501,27 +501,35 @@ img {
   width: 80%;
 }
 
+.skills__node{
+  width: 60%;
+}
+
 .skills__js {
   width: 60%;
 }
 
 .skills__react {
-  width: 85%;
+  width: 20%;
 }
 
-.skills__php {
-  width: 80%;
-}
-
-.skills__node {
-  width: 70%;
-}
-
-.skills__firebase {
+.skills__mobiledevices{
   width: 90%;
 }
 
-.skills__python {
+.skills__PChardware {
+  width: 90%;
+}
+
+.skills__PCsoftware {
+  width: 80%;
+}
+
+.skills__printers {
+  width: 70%;
+}
+
+.skills__networking {
   width: 55%;
 }
 
